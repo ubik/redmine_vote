@@ -1,0 +1,6 @@
+# Russian strings go here
+ru:
+  button_vote_up: вверх
+  button_vote_down: вниз
+  label_votes: Голоса
+  field_votes_value: Голоса

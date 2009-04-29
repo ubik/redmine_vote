@@ -1,0 +1,6 @@
+# English strings go here
+en:
+  button_vote_up: up
+  button_vote_down: down
+  label_votes: Votes
+  field_votes_value: Votes
